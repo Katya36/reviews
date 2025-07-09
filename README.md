@@ -1,2 +1,3 @@
-# reviews
-Test task from UCAR&lt;>TOPDOER
+pip install flask
+
+python app.py
